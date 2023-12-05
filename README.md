@@ -27,3 +27,5 @@ Mantenha seus dados seguros e exporte seu histórico financeiro em um arquivo JS
 
 Contribuições
 Contribuições são bem-vindas! Se encontrar algum problema ou tiver ideias para melhorar o aplicativo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/ac2c2eb3-9b14-4758-946e-c81d7d21fb4b)
