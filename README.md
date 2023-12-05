@@ -30,7 +30,9 @@ Contribuições são bem-vindas! Se encontrar algum problema ou tiver ideias par
 
 ![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/ac2c2eb3-9b14-4758-946e-c81d7d21fb4b)
 
+
 ![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/7d2de20e-4014-4896-9a9e-4ab18dc11703)
+
 
 ![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/f5068516-5221-486f-8be0-8ec464a80f9b)
 
