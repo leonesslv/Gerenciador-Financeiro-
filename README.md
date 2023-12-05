@@ -29,3 +29,12 @@ Contribuições
 Contribuições são bem-vindas! Se encontrar algum problema ou tiver ideias para melhorar o aplicativo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/ac2c2eb3-9b14-4758-946e-c81d7d21fb4b)
+
+![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/7d2de20e-4014-4896-9a9e-4ab18dc11703)
+
+![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/f5068516-5221-486f-8be0-8ec464a80f9b)
+
+![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/0ee41e79-7aad-4744-8f7e-1f0a08c26d37)
+
+
+
