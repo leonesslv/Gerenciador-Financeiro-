@@ -23,3 +23,7 @@ Obtenha uma visão geral dos seus gastos totais e receitas. O aplicativo realiza
 
 6. Salvamento em Arquivo JSON
 Mantenha seus dados seguros e exporte seu histórico financeiro em um arquivo JSON. Isso facilita o backup e a transferência de dados entre dispositivos.
+
+
+Contribuições
+Contribuições são bem-vindas! Se encontrar algum problema ou tiver ideias para melhorar o aplicativo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
