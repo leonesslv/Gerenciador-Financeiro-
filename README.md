@@ -44,4 +44,12 @@ Contribuições são bem-vindas! Se encontrar algum problema ou tiver ideias par
 
 ![image](https://github.com/leonesslv/Gerenciador-Financeiro-/assets/50273318/74eca06b-4846-446a-b67a-bf79c74efe24)
 
+Instalação:
+Clone o repositório.
+Instale as dependências necessárias.
+
+git clone https://github.com/leonesslv/gerenciador-financeiro.git
+cd gerenciador-financeiro
+
+
 
